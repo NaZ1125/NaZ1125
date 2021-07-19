@@ -6,4 +6,5 @@
 - My goal is to become a **full stack developer**and create my own small website.</br>
 <h3 align="center">My stack</h3>
 
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaZ1125)](https://github.com/NaZ1125/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaZ1125)](https://github.com/anuraghazra/github-readme-stats)
+
