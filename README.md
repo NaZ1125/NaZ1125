@@ -7,4 +7,5 @@
 <h3 align="center">My stack</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaZ1125)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">#E34F26 #1572B6 #3776AB</p>
 
