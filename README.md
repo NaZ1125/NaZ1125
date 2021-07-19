@@ -15,6 +15,6 @@
 <h3>My stats</h3>
 ──────────────────────────────────────────────────────────────────────────────────────</br>
 
-  [![NaZ1125's github stats](https://github-readme-stats.vercel.app/api?username=NaZ1125)](https://github.com/anuraghazra/github-readme-stats-radical)
+  [![NaZ1125's github stats](https://github-readme-stats.vercel.app/api?username=NaZ1125&show_icons=true&theme=radical)]
 
 
