@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi%20There👋&fontSize=70)
 <h3>NaZ</h3>
 ──────────────────────────────────────────────────────────────────────────────────────</br>
-- I'm a student Web developer known as __naz__ in my developer friends.</br>
-- I usually use __html__ and I also use __python__.</br>
-- My goal is to become a __full stack developer__and create my own small website.</br>
+- I'm a student Web developer known as **naz** in my developer friends.</br>
+- I usually use **html** and I also use **python**.</br>
+- My goal is to become a **full stack developer**and create my own small website.</br>
 <h3>🛠 My stack 🛠</h3>
 ──────────────────────────────────────────────────────────────────────────────────────</br>
 
@@ -15,7 +15,6 @@
 <h3>I need</h3>
 ──────────────────────────────────────────────────────────────────────────────────────</br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-
 <h3>My stats</h3>
 ──────────────────────────────────────────────────────────────────────────────────────</br>
 
