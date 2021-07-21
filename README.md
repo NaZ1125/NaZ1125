@@ -12,7 +12,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaZ1125&show_icons=true&theme=highcontrast)
 
-<h3>My stats</h3>
+<h3>:postbox:Contact Me:postbox:</h3>
+──────────────────────────────────────────────────────────────────────────────────────</br>
+
+<p>discord : 나즈#0165</br>
+mail : melon7563@naver.com
+
+Contact me anytime
+
+
+<h3>My stats:chart:</h3>
 ──────────────────────────────────────────────────────────────────────────────────────</br>
 
 
