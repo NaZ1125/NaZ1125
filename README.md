@@ -15,7 +15,7 @@
 <h3>:postbox:Contact Me:postbox:</h3>
 ────────────────────────────────────────────────────────────────────────────────────</br>
 
-<p>discord : 나즈#0165</br>
+<p>discord : ㅇㅅ#8668</br>
 mail : melon7563@naver.com
 
 Contact me anytime
